@@ -1,7 +1,7 @@
 <!--
  * @Author: kyrle
  * @Date: 2022-11-09 15:21:44
- * @LastEditTime: 2022-11-09 15:30:52
+ * @LastEditTime: 2022-11-10 10:54:42
  * @FilePath: \web\src\components\PlayGround.vue
  * @Description: 
 -->
@@ -25,7 +25,6 @@ export default {
     div.playground {
         width: 60vw;
         height: 70vh;
-        background-color: lightblue;
         margin: 40px auto;
     }
 </style>

@@ -1,7 +1,7 @@
 /*
  * @Author: kyrle
  * @Date: 2022-11-09 16:11:55
- * @LastEditTime: 2022-11-09 16:26:22
+ * @LastEditTime: 2022-11-10 09:11:39
  * @FilePath: \web\src\assets\scripts\wall.js
  * @Description: 
  */

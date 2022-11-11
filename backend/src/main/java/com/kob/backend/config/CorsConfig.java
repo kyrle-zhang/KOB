@@ -6,7 +6,7 @@ import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-
+//处理跨域访问的配置类(本项目架构为前后端分离)
 @Configuration
 public class CorsConfig implements Filter {
     @Override
